@@ -1,0 +1,1 @@
+from junk_drawer.decorators.async_tools import await_me, staticmethod_await_me, classmethod_await_me
